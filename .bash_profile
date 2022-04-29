@@ -7,7 +7,7 @@ alias gp='git push'
 alias ga='git add'
 alias gs='git status'
 alias gpo='git push origin'
-alias gd='git diff'
+alias gd='git diff --color-words'
 alias gl='git log'
 alias gri='git rebase -i'
 alias gc='git commit -a'
@@ -19,4 +19,3 @@ alias gcm="git checkout main"
 alias lpython="./src/bin/lpython"
 alias ast="lpython --show-ast --indent --show-stacktrace"
 alias asr="lpython --show-asr --indent --show-stacktrace"
-
