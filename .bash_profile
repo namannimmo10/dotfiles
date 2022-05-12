@@ -12,6 +12,7 @@ alias gdc='git diff --color-words'
 alias gl='git log'
 alias gri='git rebase -i'
 alias gc='git commit -a'
+alias gch='git checkout'
 alias gb='git branch'
 alias sb='source ~/.bashrc'
 alias gpu="git pull upstream main"
