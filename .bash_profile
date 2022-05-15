@@ -6,6 +6,7 @@ alias ....="cd ../../.."
 alias gp='git push'
 alias ga='git add'
 alias gs='git status'
+alias gst='git stash'
 alias gpo='git push origin'
 alias gd='git diff'
 alias gdc='git diff --color-words'
