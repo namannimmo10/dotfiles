@@ -3,6 +3,7 @@ alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 
+alias vi='nvim'
 alias gp='git push'
 alias ga='git add'
 alias gs='git status'
