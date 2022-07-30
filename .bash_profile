@@ -22,6 +22,8 @@ alias sb='source ~/.bashrc'
 alias gpu="git pull upstream main"
 alias gcb="git checkout -b"
 alias gcm="git checkout main"
+alias grm="git rebase main"
+alias gca="git commit --amend"
 alias lpython="./src/bin/lpython"
 alias lp="cd Applications/oss/lpython && conda activate lp"
 alias FC="FC=../src/bin/lfortran cmake -DLFORTRAN_BACKEND=llvm ."
